@@ -670,6 +670,9 @@ footer .last_row{
     }
 }
 @media screen  and (max-width: 491px){
+    .home{
+        background-position: center;
+    }
     .home .container h1{
         font-size: 26px;
     }
@@ -683,8 +686,8 @@ footer .last_row{
         font-size: 12px;
     }
     .collection .cards .image{
-        height: 193px;
-        width: 140px;
+        height: 190px;
+        width: 133px;
     }
     footer .top_row{
         flex-direction: column;
